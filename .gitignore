@@ -1,0 +1,5 @@
+/target
+
+# Daemon helpers
+.wacraft-reminders.pid
+.wacraft-reminders.log
